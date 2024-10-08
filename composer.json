@@ -1,0 +1,7 @@
+{
+    "name": "hananils/kirby-checkbox-field",
+    "description": "Checkbox is a simple field that is a companion of the core toggle field. It offers a single checkbox with label and info text and can be used wherever a single option is required and the \"on\" and \"off\" metaphor of a toggle does not suit well.",
+    "type": "kirby-plugin",
+    "homepage": "https://kirby.hananils.de/plugins/checkbox-field",
+    "license": "MIT"
+}
