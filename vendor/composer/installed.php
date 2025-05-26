@@ -3,7 +3,7 @@
         'name' => 'hananils/kirby-checkbox-field',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'cd6963bb671e27d5ffe5fd3b9edc52b766e25c8a',
+        'reference' => '289259f262e4edddd730a1b0054888dc1178e61b',
         'type' => 'kirby-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'hananils/kirby-checkbox-field' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'cd6963bb671e27d5ffe5fd3b9edc52b766e25c8a',
+            'reference' => '289259f262e4edddd730a1b0054888dc1178e61b',
             'type' => 'kirby-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
