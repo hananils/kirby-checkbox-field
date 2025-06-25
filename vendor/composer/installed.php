@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'hananils/kirby-checkbox-field',
-        'pretty_version' => 'dev-main',
-        'version' => 'dev-main',
-        'reference' => '289259f262e4edddd730a1b0054888dc1178e61b',
+        'pretty_version' => '1.0.0',
+        'version' => '1.0.0.0',
+        'reference' => null,
         'type' => 'kirby-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'hananils/kirby-checkbox-field' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
-            'reference' => '289259f262e4edddd730a1b0054888dc1178e61b',
+            'pretty_version' => '1.0.0',
+            'version' => '1.0.0.0',
+            'reference' => null,
             'type' => 'kirby-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
