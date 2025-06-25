@@ -2,6 +2,9 @@
 
 Checkbox is a simple field for Kirby that is a companion of the core toggle field. It offers a single checkbox with label and info text and can be used wherever a single option is required and the "on" and "off" metaphor of a toggle does not suit well.
 
+> [!NOTE]
+> Please check out the online documentation at [kirby.hananils.de/plugins/checkbox-field](https://kirby.hananils.de/plugins/checkbox-field) for further information.
+
 # Introduction
 
 Toggles – like [the core field](https://getkirby.com/docs/reference/panel/fields/toggle) – and checkboxes have a lot in common as they both allow users to change the state of a setting. The mental models behind both concepts are different though. While a toggle usually conveys an immediate action, switching a setting "on" or "off" like a lightbulb, ticking a checkbox does not imply an action but communicates consent or disconsent. "Do you agree to the terms of service?" Yes or no.
