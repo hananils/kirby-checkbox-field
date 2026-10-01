@@ -13,7 +13,7 @@ For all use cases where you don’t want to toggle a switch but what to represen
 
 ### Example
 
-![](https://kirby.hananils.test/media/pages/plugins/checkbox-field/a33f0c42c3-1790000604/checkbox-field_screenshot.png)The field setup is minimal:
+![](https://kirby.hananils.de/media/pages/plugins/checkbox-field/a33f0c42c3-1790762078/checkbox-field_screenshot.png)The field setup is minimal:
 
 ```
 checkbox:
@@ -26,16 +26,25 @@ Please note that the label for this field is not displayed above the field but b
 
 ### Properties
 
-- **autofocus:** Sets the focus on this field when the form loads. Only the first field with this label gets
-- **default:** Default value which will be saved when a new page/​user/​file is created
-- **disabled:** If `true`, the field is no longer editable and will not be saved
-- **info:** Sets the info text next to the checkbox label.
-- **label:** The field label can be set as string or associative array with translations
-- **required:** If `true`, the field has to be filled in correctly to be saved.
-- **translate:** trueIf `false`, the field will be disabled in non-default languages and cannot be translated. This is only relevant in multi-language setups.
-- **when:** Conditions when the field will be shown (since 3.1.0)
-- **width:** “1/1″The width of the field in the field grid, e. g. `1/1`, `1/2`, `1/3`, `1/4`, `2/3`, `3/4`
-
+- **autofocus:**  *bool*   
+     Sets the focus on this field when the form loads. Only the first field with this label gets
+- **default:**    
+     Default value which will be saved when a new page/​user/​file is created
+- **disabled:**  *bool*   
+     If true, the field is no longer editable and will not be saved
+- **info:**    
+     Sets the info text next to the checkbox label.
+- **label:**    
+     The field label can be set as string or associative array with translations
+- **required:**  *bool*   
+     If true, the field has to be filled in correctly to be saved.
+- **translate:**  *bool*   
+     If false, the field will be disabled in non-default languages and cannot be translated. This is only relevant in multi-language setups. Defaults to `true`.
+- **when:**    
+     Conditions when the field will be shown (since 3.1.0)
+- **width:**  *string*   
+     The width of the field in the field grid, e. g. 1/1, 1/2, 1/3, 1/4, 2/3, 3/4 Defaults to `"1/1"`.
+ 
 ### Templating
 
 Just like with the toggle field, a checkbox value can be converted to a proper boolean:
