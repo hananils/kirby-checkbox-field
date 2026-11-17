@@ -13,7 +13,7 @@ For all use cases where you don’t want to toggle a switch but what to represen
 
 ### Example
 
-![](https://kirby.hananils.de/media/pages/plugins/checkbox-field/a33f0c42c3-1790762078/checkbox-field_screenshot.png)The field setup is minimal:
+![](https://kirby.hananils.de/media/pages/plugins/checkbox-field/7a49d3b467-1790762078/checkbox-field_screenshot.png)The field setup is minimal:
 
 ```
 checkbox:
